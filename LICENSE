@@ -29,3 +29,15 @@ interview. It is NOT affiliated with, authorized by, reviewed by, or endorsed
 by Sun Yuchen (孙宇晨), his team, or any of his affiliated companies. The
 project name is used only to indicate the source of inspiration. Outputs of
 this project must not be presented as statements made by Sun Yuchen.
+
+Additional notice on third-party content:
+
+The MIT License above applies ONLY to the original work of this project
+(SKILL.md, references/, assets/, scripts/, README.md and other files authored
+by this project).
+
+Files under the docs/ directory are third-party materials transcribed and
+compiled from a publicly available interview. Their copyright belongs to the
+respective rights holders. They are included solely for archival and
+comparison purposes and are NOT licensed under the MIT License. See
+docs/来源说明与权利声明.md for details, including the takedown commitment.
